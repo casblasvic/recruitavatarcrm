@@ -1,0 +1,15 @@
+{
+  "projectId": "prj_uHvVXIemuj7bAa4LpTQzp6veBFR3",
+  "orgId": "team_celoN3t2qiA0UVhqHBRK2oNd",
+  "settings": {
+    "createdAt": 1740491118202,
+    "framework": "nextjs",
+    "devCommand": null,
+    "installCommand": "bun install",
+    "buildCommand": "bun run build",
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "22.x"
+  }
+}
